@@ -1,6 +1,6 @@
 # Free Litecoin / Faucet Automation
 
-This project automates signing up for, and then auto-rolling for accounts on https://free-litecoin.io/
+This project automates signing up for, and then auto-rolling for accounts on https://free-litecoin.com/
 
 ## How To Use:
 
