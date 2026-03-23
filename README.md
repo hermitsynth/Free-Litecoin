@@ -55,7 +55,13 @@ pip install ddddocr
 
 pip install pillow
 ```
+## Development:
+
+LitecoinROLLER.py was made primarily by me (hermitsynth)
+litecoinstealer.py was developed by [Imusing](https://github.com/imusing) , thanks to their contribution, this project was possible
+
 
 ## Synopsis:
 
 Enjoy your free litecoin! This typically results in profit / payout within about a week.
+
