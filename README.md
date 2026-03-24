@@ -61,6 +61,7 @@ LitecoinROLLER.py was made primarily by me (hermitsynth)
 
 litecoinstealer.py was developed by [Imusing](https://github.com/imusing) , thanks to their contribution, this project was possible
 
+If you'd like to help support this project, any donation would be greatly appreciated: bc1qjgjtmjv834ssd6a4pekfppr8uqr5g0pxxkaktu (btc address)
 
 ## Synopsis:
 
